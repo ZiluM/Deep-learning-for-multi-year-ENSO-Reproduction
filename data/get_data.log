@@ -1,0 +1,88 @@
+========================================
+ACCESS-CM2 : tos_Omon_ACCESS-CM2_historical_r1i1p1f1_185001-201412.nc1
+(1980,) (1980, 24, 72) (1980, 24, 72)
+success mkdir ../data/train_data/ACCESS-CM2
+========================================
+CanESM2 : tos_Omon_CanESM2_historical_r1i1p1_185001-200512_reg.nc
+(1872,) (1872, 24, 72) (1872, 24, 72)
+success mkdir ../data/train_data/CanESM2
+========================================
+CCSM4 : tos_Omon_CCSM4_historical_r1i1p1_185001-200512_reg.nc
+(1872,) (1872, 24, 72) (1872, 24, 72)
+success mkdir ../data/train_data/CCSM4
+========================================
+CESM1-CAM5 : tos_Omon_CESM1-CAM5_historical_r1i1p1_185001-200512_reg.nc
+(1872,) (1872, 24, 72) (1872, 24, 72)
+success mkdir ../data/train_data/CESM1-CAM5
+========================================
+CESM2 : tos_Omon_CESM2_historical_r1i1p1f1_185001-201412.nc1
+(1980,) (1980, 24, 72) (1980, 24, 72)
+success mkdir ../data/train_data/CESM2
+========================================
+CMCC-CESM : tos_Omon_CMCC-CESM_historical_r1i1p1_185001-200512_reg.nc
+(1872,) (1872, 24, 72) (1872, 24, 72)
+success mkdir ../data/train_data/CMCC-CESM
+========================================
+CMCC-CMS : tos_Omon_CMCC-CMS_historical_r1i1p1_185001-200512_reg.nc
+(1872,) (1872, 24, 72) (1872, 24, 72)
+success mkdir ../data/train_data/CMCC-CMS
+========================================
+CMCC-CM : tos_Omon_CMCC-CM_historical_r1i1p1_185001-200512_reg.nc
+(1872,) (1872, 24, 72) (1872, 24, 72)
+success mkdir ../data/train_data/CMCC-CM
+========================================
+CNRM-CM5 : tos_Omon_CNRM-CM5_historical_r1i1p1_185001-200512_reg.nc
+(1872,) (1872, 24, 72) (1872, 24, 72)
+success mkdir ../data/train_data/CNRM-CM5
+========================================
+CNRM-CM6-1 : tos_Omon_CNRM-CM6-1_historical_r1i1p1f1_185001-201412.nc1
+(1980,) (1980, 24, 72) (1980, 24, 72)
+success mkdir ../data/train_data/CNRM-CM6-1
+========================================
+CSIRO-Mk3-6-0 : tos_Omon_CSIRO-Mk3-6-0_historical_r1i1p1_185001-200512_reg.nc
+(1872,) (1872, 24, 72) (1872, 24, 72)
+success mkdir ../data/train_data/CSIRO-Mk3-6-0
+========================================
+FGOALS-f3-L : tos_Omon_FGOALS-f3-L_historical_r1i1p1f1_185001-201412.nc1
+(1980,) (1980, 24, 72) (1980, 24, 72)
+success mkdir ../data/train_data/FGOALS-f3-L
+========================================
+FGOALS-g3 : tos_Omon_FGOALS-g3_historical_r1i1p1f1_185001-201412.nc1
+(1980,) (1980, 24, 72) (1980, 24, 72)
+success mkdir ../data/train_data/FGOALS-g3
+========================================
+FIO-ESM : tos_Omon_FIO-ESM_historical_r1i1p1_185001-200512_reg.nc
+(1872,) (1872, 24, 72) (1872, 24, 72)
+success mkdir ../data/train_data/FIO-ESM
+========================================
+GFDL-CM4 : tos_Omon_GFDL-CM4_historical_r1i1p1f1_185001-201412.nc1
+(1980,) (1980, 24, 72) (1980, 24, 72)
+success mkdir ../data/train_data/GFDL-CM4
+========================================
+GFDL-ESM4 : tos_Omon_GFDL-ESM4_historical_r1i1p1f1_185001-201412.nc1
+(1980,) (1980, 24, 72) (1980, 24, 72)
+success mkdir ../data/train_data/GFDL-ESM4
+========================================
+MIROC5 : tos_Omon_MIROC5_historical_r1i1p1_185001-200512_reg.nc
+(1956,) (1956, 24, 72) (1956, 24, 72)
+success mkdir ../data/train_data/MIROC5
+========================================
+MPI-ESM-LR : tos_Omon_MPI-ESM-LR_historical_r1i1p1_185001-200512_reg.nc
+(1872,) (1872, 24, 72) (1872, 24, 72)
+success mkdir ../data/train_data/MPI-ESM-LR
+========================================
+MRI-CGCM3 : tos_Omon_MRI-CGCM3_historical_r1i1p1_185001-200512_reg.nc
+(1872,) (1872, 24, 72) (1872, 24, 72)
+success mkdir ../data/train_data/MRI-CGCM3
+========================================
+MRI-ESM2-0 : tos_Omon_MRI-ESM2-0_historical_r1i1p1f1_185001-201412.nc1
+(1980,) (1980, 24, 72) (1980, 24, 72)
+success mkdir ../data/train_data/MRI-ESM2-0
+========================================
+NorESM1-ME : tos_Omon_NorESM1-ME_historical_r1i1p1_185001-200512_reg.nc
+(1872,) (1872, 24, 72) (1872, 24, 72)
+success mkdir ../data/train_data/NorESM1-ME
+========================================
+NorESM1-M : tos_Omon_NorESM1-M_historical_r1i1p1_185001-200512_reg.nc
+(1872,) (1872, 24, 72) (1872, 24, 72)
+success mkdir ../data/train_data/NorESM1-M
