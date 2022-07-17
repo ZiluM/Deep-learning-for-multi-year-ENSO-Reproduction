@@ -30,5 +30,5 @@ See [Code_explaination.md](./Code_explaination.md) for a detailed explanation of
 
 Tnanks for Prof. Jingjia Luo (NUIST), Prof. Lin Chen (NUIST) and Dr. Ming Sun (NUIST)'s guidance.
 
-Also, Thank Dr. Sun Ming for providing CMIP data.
+Also, Thank Dr. Sun Ming for providing CMIP data very much.
 
