@@ -16,7 +16,19 @@ In 2022, I rewrite all the codes and use **Tensorflow** to finish all the work.
 
 Hoping to help you.
 
+## Data
+
+If you don't want to download CMIP data and meteorological data, you can use the meteorological data in the **./data** folder. 
+
+The [data](./data) in **./data** folder is processed according to the original paper (Ham et al. 2019). How to use the data can refer to [load_data.py](./code/load_data.py) and [Network.ipynb](./code/Network.ipynb) in the **./code** folder
+
+## Information
+
+See [Code_explaination.md](./Code_explaination.md) for a detailed explanation of the code
+
 ## Acknowledgements
 
 Tnanks for Prof. Jingjia Luo (NUIST), Prof. Lin Chen (NUIST) and Dr. Ming Sun (NUIST)'s guidance.
+
+Also, Thank Dr. Sun Ming for providing CMIP data.
 
