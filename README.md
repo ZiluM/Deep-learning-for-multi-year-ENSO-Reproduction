@@ -20,7 +20,7 @@ Hoping to help you.
 
 If you don't want to download CMIP data and meteorological data, you can use the meteorological data in the **./data** folder. 
 
-The [data](./data) in **./data** folder is processed according to the original paper (Ham et al. 2019). How to use the data can refer to [load_data.py](./main/load_data.py) and [Network.ipynb](./main/Network.ipynb), [heatmap_allnet.ipynb](./main/heatmap.ipynb) in the **./main** folder
+The [data](./data) in **./data** folder is processed according to the original paper (Ham et al. 2019). How to use the data can refer to [load_data.py](./main/load_data.py) and [Network.ipynb](./main/Network.ipynb), [heatmap_allnet.ipynb](./main/heatmap_allnet.ipynb) in the **./main** folder
 
 ## Abstact
 
