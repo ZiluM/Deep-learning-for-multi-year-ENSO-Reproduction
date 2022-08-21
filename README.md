@@ -32,6 +32,14 @@ Can the convolutional neural network, which has emerged recently, tell us more a
 
 And this project is also the subsequent expansion and tensorflow version of project (https://zhuanlan.zhihu.com/p/435607626) . Pytorch version can view the original project.
 
+## Invite the author to drink milk tea
+
+If you think this project is very helpful to you, please let me have a cup of milk tea!
+
+![](./pic/wechat.png)
+
+![](./pic/zhifubao.jpg)
+
 ## Construction of neural network
 
 Referring to the neural network constructed by Ham et al. 2019, we constructed the following neural network to predict the nino3.4 index. Different from the original paper, we did not use HC as the input data, but used the sea height (SSH) which is approximately linear with HC as the input data. The output data is the nino3.4 index in the next 17 months.
