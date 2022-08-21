@@ -83,20 +83,16 @@ Since the convolution in the neural network is equivalent to the extraction of S
 
 There is a spatial one-to-one correspondence between the feature map and the original data, so the filtering of the convolution network on the original data can be viewed through the feature map.
 
-However, the number of characteristic maps finally obtained is the number of filters (50 in this network). Therefore, it is necessary to determine the weight of each characteristic map and then add them to obtain a thermodynamic map, as shown in the following formula $H$ is the final Heatmap, the shape is consistent with the space size of the final output of the convolution network, $a $ is the feature map, $w$ is the weight of each feature map.
+However, the number of characteristic maps finally obtained is the number of filters (50 in this network). Therefore, it is necessary to determine the weight of each characteristic map and then add them to obtain a thermodynamic map, as shown in the following formula $H$ is the final Heatmap, the shape is consistent with the space size of the final output of the convolution network, $a$ is the feature map, $w$ is the weight of each feature map.
 
 $$
-
 H = \sum_{i=1}^{filter \ num} w_i A_i
-
 $$
 
 The Grad-cam algorithm (Selvaraju et al. 2020) is used to determine the weight. The detailed algorithm process can be viewed in the original paper. The formula for determining the weight is as follows, and the nino3.4 index predicted by Y neural network is as follows:
 
 $$
-
 w_i = global \ average \ pooling ( \frac{ \partial y}{ \partial A_i})
-
 $$
 
 The implementation method using tensorflow is as follows:
