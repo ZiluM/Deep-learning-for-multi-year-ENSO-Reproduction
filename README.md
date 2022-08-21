@@ -165,6 +165,7 @@ Ham, Y.-G., J.-H. Kim, and J.-J. Luo, 2019: Deep learning for multi-year ENSO fo
 
 
 Jiang, L., and T. Li, 2021: Impacts of Tropical North Atlantic and Equatorial Atlantic SST Anomalies on ENSO. Journal of Climate, 34, 5635–5655, https://doi.org/10.1175/JCLI-D-20-0835.1.
+
 Jin, F.-F., 1997: An Equatorial Ocean Recharge Paradigm for ENSO. Part I: Conceptual Model. JOURNAL OF THE ATMOSPHERIC SCIENCES, 54, 19.
 
 
