@@ -33,7 +33,7 @@ Can the convolutional neural network, which has emerged recently, tell us more a
 And this project is also the subsequent expansion and tensorflow version of project (https://zhuanlan.zhihu.com/p/435607626) . Pytorch version can view the original project.
 
 
-## Invite the author to drink milk tea
+## Reward the author with a cup of milk tea
 
 If you think this project is very helpful to you, please let me have a cup of milk tea!
 
