@@ -33,13 +33,6 @@ Can the convolutional neural network, which has emerged recently, tell us more a
 And this project is also the subsequent expansion and tensorflow version of project (https://zhuanlan.zhihu.com/p/435607626) . Pytorch version can view the original project.
 
 
-## Reward the author with a cup of milk tea
-
-If you think this project is very helpful to you, please let me have a cup of milk tea!
-
-![](./pic/wechat.png)
-
-![](./pic/zhifubao.jpg)
 
 
 ## Construction of neural network
@@ -192,3 +185,11 @@ Xie, S.-P., Y. Kosaka, Y. Du, K. Hu, J. S. Chowdary, and G. Huang, 2016: Indo-we
 For data preprocessing, if there is no ready-made cmip6 data, you can directly use the data file in GitHub as the processed file. Use ./code/load_data.py ,data can be loaded.
 The data processing process mainly uses **CDO** to process. 
 
+
+## Reward the author with a cup of milk tea
+
+If you think this project is very helpful to you, please let me have a cup of milk tea!
+
+![](./pic/wechat.png)
+
+![](./pic/zhifubao.jpg)
